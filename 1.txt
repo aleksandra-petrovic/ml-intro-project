@@ -1,0 +1,6 @@
+
+1. Normalizacija - Atributi mogu imati vrednosti u opsezima koji se značajno mogu razlikovati. Da bi se ovo izbeglo koristi se normalizacija (vrsta transformacije podataka)
+Regularizacija - Pristup ucenju izborom modela iz siromasnog skupa funkcija pati od ociglednog nedostatka. Ukoliko se u datom skupu ne nalazi nijedan model sa relativno malom srednjom greskom, ne moze se ocekivati dobra generalizacija, jer model nije nista naucio.
+
+2. Precision je mera koliko je otkrivenih stavki zaista relevantno. Izračunava se deljenjem pravih pozitivnih vrednosti ukupnim pozitivnim vrednostima.
+Recall je mera koliko je relevantnih elemenata otkriveno. Stoga deli istinske pozitive brojem relevantnih elemenata.
